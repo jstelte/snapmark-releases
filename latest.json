@@ -1,7 +1,7 @@
 {
-  "version": "0.9.4",
-  "notes": "- Changing the line weight, text size or colour now applies to a dimension, cloud, comment or area you're partway through drawing, instead of only to the next one",
-  "sha256": "796e68a4d8f6bba3cf02db069db0d4616c896d79e11868b4b7739d6d5c9dbd20",
-  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.4/SnapMark-Setup-0.9.4.exe",
+  "version": "0.9.4.Update1",
+  "notes": "- Fixes bits of a line being left behind on screen while drawing a dimension or other markup",
+  "sha256": "1c08bc5ec49b098b6b409765c7851067e1bb9869bf05998ef24d97a9d1df91ea",
+  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.4.Update1/SnapMark-Setup-0.9.4.Update1.exe",
   "page": "https://github.com/jstelte/snapmark-releases/releases/latest"
 }
