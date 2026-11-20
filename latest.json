@@ -1,7 +1,7 @@
 {
-  "version": "0.9.4.1",
-  "notes": "- Fixes bits of a line being left behind on screen while drawing a dimension or other markup",
-  "sha256": "7b8aa27fa1ff0168ea7c0cb827e7359e5e783edcdb330fff6917991a8fc1e61f",
-  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.4.1/SnapMark-Setup-0.9.4.1.exe",
+  "version": "0.9.5",
+  "notes": "- New: a magnifier for pixel-perfect work. While selecting a screenshot area it shows the pixels under the pointer, enlarged; the arrow keys move the pointer one pixel at a time\n- New: in the editor, the magnifier appears while a drawing tool is picked or a handle is dragged; screenshots show real pixels, PDFs stay sharp\n- Press Z to turn the magnifier off or on",
+  "sha256": "a61a283f019f96b4c106aea4a8eb07d851260a735df4483fd979a4e70854a1ee",
+  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.5/SnapMark-Setup-0.9.5.exe",
   "page": "https://github.com/jstelte/snapmark-releases/releases/latest"
 }
