@@ -1,7 +1,7 @@
 {
-  "version": "0.9.4.Update1",
+  "version": "0.9.4.1",
   "notes": "- Fixes bits of a line being left behind on screen while drawing a dimension or other markup",
-  "sha256": "1c08bc5ec49b098b6b409765c7851067e1bb9869bf05998ef24d97a9d1df91ea",
-  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.4.Update1/SnapMark-Setup-0.9.4.Update1.exe",
+  "sha256": "7b8aa27fa1ff0168ea7c0cb827e7359e5e783edcdb330fff6917991a8fc1e61f",
+  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.4.1/SnapMark-Setup-0.9.4.1.exe",
   "page": "https://github.com/jstelte/snapmark-releases/releases/latest"
 }
