@@ -1,7 +1,7 @@
 {
-  "version": "0.9.3",
-  "notes": "- \"Check for updates now\" in Help can install the update straight away\n- The update progress shows over the window you're in, instead of the main window",
-  "sha256": "dca0fe4767d363c57169b488e55e8962d03a212860bc70c31593185d19e64151",
-  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.3/SnapMark-Setup-0.9.3.exe",
+  "version": "0.9.4",
+  "notes": "- Changing the line weight, text size or colour now applies to a dimension, cloud, comment or area you're partway through drawing, instead of only to the next one",
+  "sha256": "796e68a4d8f6bba3cf02db069db0d4616c896d79e11868b4b7739d6d5c9dbd20",
+  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.4/SnapMark-Setup-0.9.4.exe",
   "page": "https://github.com/jstelte/snapmark-releases/releases/latest"
 }
