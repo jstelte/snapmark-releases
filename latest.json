@@ -1,7 +1,7 @@
 {
-  "version": "0.9.5.1",
-  "notes": "- The magnifier now starts off; press Z to turn it on (SnapMark remembers)\n- In the magnifier, the line you're drawing or reshaping is see-through, so you can see what's under its end",
-  "sha256": "06d535d9b79bdc1520b7831d6a28f3b51998d2f9416dca8b13733c29b7ab1feb",
-  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.5.1/SnapMark-Setup-0.9.5.1.exe",
+  "version": "0.9.6",
+  "notes": "- New: Checkmark tool (K) to tick boxes on forms. Text size sets how big it is, line weight how bold\n- Typing in a text box no longer gets cut off when focus moves away without a click (for example Tab, a shortcut, or a dialog)",
+  "sha256": "ee4e92b7bcd71b3e611201a2207e38870e7ea50a2626060f0bf78c3337994465",
+  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.6/SnapMark-Setup-0.9.6.exe",
   "page": "https://github.com/jstelte/snapmark-releases/releases/latest"
 }
