@@ -1,7 +1,7 @@
 {
-  "version": "0.9.7",
-  "notes": "- New look: a cleaner \"Blueprint\" design with icons, in light and dark. It follows your computer's setting, or choose under Appearance on the main window\n- The tools toolbar starts along the top and can be moved to any side (drag its grip, or right-click a toolbar)\n- Tool options are now in a Properties panel on the right; PDF pages in a Pages panel on the left. Both collapse to a slim strip\n- The status bar shows the pointer position (in feet and inches once a scale is set) and the zoom\n- The main window has capture tiles, a drop area for PDFs and a Recent files list\n- Safer saving, redaction and page tools, from a security review\n- Help has a new \"Layout and appearance\" page",
-  "sha256": "b0fbf7310133ba76d981f1e4368e5fe32b6cc295ffa18074c24b8bd537738915",
-  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.7/SnapMark-Setup-0.9.7.exe",
+  "version": "0.9.8",
+  "notes": "- SnapMark is now called Redlivo. Your settings, recent files and saved signature carry over\n- New logo: an R on a dimension line. A white tile normally, a navy one in dark mode\n- New projects save as .redlivo files. Your older .snapmark projects still open as before\n- Windows: the update replaces the old SnapMark shortcuts and program with Redlivo ones",
+  "sha256": "df99f9edd133291e32594ce4ef52e76eb914bbca1a1a7974d3b4ff86163b1230",
+  "windows": "https://github.com/jstelte/snapmark-releases/releases/download/v0.9.8/Redlivo-Setup-0.9.8.exe",
   "page": "https://github.com/jstelte/snapmark-releases/releases/latest"
 }
